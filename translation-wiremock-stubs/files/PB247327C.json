@@ -1,0 +1,6 @@
+{
+  "id": "{{randomValue length=5 type='NUMERIC'}}",
+  "correction-id": "{{request.headers.correction-id}}",
+  "type": "NINO",
+  "identifier": "PB247327C"
+}

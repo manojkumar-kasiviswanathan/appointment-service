@@ -1,0 +1,5 @@
+{
+  "id": "{{randomValue length=5 type='NUMERIC'}}",
+  "correction-id": "{{request.headers.correction-id}}",
+  "error": "NINO not found"
+}
